@@ -1,5 +1,5 @@
-# SIEM-Lab---Opnsense-Firewall-Setup-Part-2
-In this project I will be updating the Opnsense firewall and adding features like Intrusion Detection and Intrusion Prevention System(IPS) to my firewall.
+# Home-Lab---Opnsense-Firewall-Setup-Part-2
+In this project I will be updating the Opnsense firewall and adding features like Intrusion Detection and Intrusion Prevention System(IPS) to my firewall. Furthermore, I will be adding custom rules to my firewall to help identifiy potential port scans on the system.
 
 First we have disable the hardware capabilites of the firewall as it is recommended by Opnsense.
 
