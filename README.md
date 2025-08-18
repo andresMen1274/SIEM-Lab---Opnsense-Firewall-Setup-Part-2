@@ -57,4 +57,4 @@ Now we will go back to opnsense and check the alerts tab to see if the custome r
 
 <img width="1233" height="665" alt="image" src="https://github.com/user-attachments/assets/5bc012be-fbf5-4da7-b84e-2516fbd3bb3b" />
 
-It just works! This is the end of the second part of the firewall configuration.
+Here we can see that the nmap scan was picked up by the firewall because of the custom rule that we implemented. It just works! This is the end of the second part of the firewall configuration.
